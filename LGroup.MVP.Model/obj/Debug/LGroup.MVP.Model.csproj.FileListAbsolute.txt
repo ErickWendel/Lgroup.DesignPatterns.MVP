@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Model\bin\Debug\LGroup.MVP.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Model\bin\Debug\LGroup.MVP.Model.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Model\obj\Debug\LGroup.MVP.Model.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Model\obj\Debug\LGroup.MVP.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Model\obj\Debug\LGroup.MVP.Model.pdb

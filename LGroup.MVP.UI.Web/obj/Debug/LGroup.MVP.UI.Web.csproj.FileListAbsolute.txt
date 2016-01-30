@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\bin\LGroup.MVP.UI.Web.dll.config
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\bin\LGroup.MVP.UI.Web.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\bin\LGroup.MVP.UI.Web.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\obj\Debug\LGroup.MVP.UI.Web.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\obj\Debug\LGroup.MVP.UI.Web.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\obj\Debug\LGroup.MVP.UI.Web.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\bin\LGroup.MVP.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\bin\LGroup.MVP.View.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\bin\LGroup.MVP.Model.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\bin\LGroup.MVP.View.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\bin\LGroup.MVP.Presenter.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.UI.Web\bin\LGroup.MVP.Presenter.pdb

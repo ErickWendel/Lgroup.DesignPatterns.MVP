@@ -1,0 +1,9 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Presenter\bin\Debug\LGroup.MVP.Presenter.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Presenter\bin\Debug\LGroup.MVP.Presenter.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Presenter\bin\Debug\LGroup.MVP.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Presenter\bin\Debug\LGroup.MVP.View.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Presenter\bin\Debug\LGroup.MVP.Model.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Presenter\bin\Debug\LGroup.MVP.View.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Presenter\obj\Debug\LGroup.MVP.Presenter.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Presenter\obj\Debug\LGroup.MVP.Presenter.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVP\LGroup.MVP.Presenter\obj\Debug\LGroup.MVP.Presenter.pdb

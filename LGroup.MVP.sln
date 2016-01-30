@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVP.UI.Web", "LGroup.MVP.UI.Web\LGroup.MVP.UI.Web.csproj", "{41368CC1-CB5D-456C-9BAF-02C2CDF37044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVP.Model", "LGroup.MVP.Model\LGroup.MVP.Model.csproj", "{A5EDF8B9-33AD-4686-900E-BB683F92B816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVP.View", "LGroup.MVP.View\LGroup.MVP.View.csproj", "{6719C4FC-7845-427F-9F56-FFE060C925C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camada Armazenamento de dados", "Camada Armazenamento de dados", "{18D01E65-2E03-4009-82B7-BC39222FBC54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camada - Apresentacao", "Camada - Apresentacao", "{2974958D-F8C7-43AD-9FC3-3F9B0CF3E9AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camada Visualizacao", "Camada Visualizacao", "{8289E2E2-E038-418C-AFCA-1D2AC04B8295}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camada Presenter", "Camada Presenter", "{67F04D02-4D74-47F7-944B-335F657FC7E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVP.Presenter", "LGroup.MVP.Presenter\LGroup.MVP.Presenter.csproj", "{2775F0A6-3348-42CE-AD65-24DD1B6C64B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41368CC1-CB5D-456C-9BAF-02C2CDF37044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41368CC1-CB5D-456C-9BAF-02C2CDF37044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41368CC1-CB5D-456C-9BAF-02C2CDF37044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41368CC1-CB5D-456C-9BAF-02C2CDF37044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EDF8B9-33AD-4686-900E-BB683F92B816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EDF8B9-33AD-4686-900E-BB683F92B816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EDF8B9-33AD-4686-900E-BB683F92B816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EDF8B9-33AD-4686-900E-BB683F92B816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6719C4FC-7845-427F-9F56-FFE060C925C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6719C4FC-7845-427F-9F56-FFE060C925C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6719C4FC-7845-427F-9F56-FFE060C925C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6719C4FC-7845-427F-9F56-FFE060C925C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2775F0A6-3348-42CE-AD65-24DD1B6C64B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2775F0A6-3348-42CE-AD65-24DD1B6C64B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2775F0A6-3348-42CE-AD65-24DD1B6C64B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2775F0A6-3348-42CE-AD65-24DD1B6C64B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{41368CC1-CB5D-456C-9BAF-02C2CDF37044} = {2974958D-F8C7-43AD-9FC3-3F9B0CF3E9AA}
+		{A5EDF8B9-33AD-4686-900E-BB683F92B816} = {18D01E65-2E03-4009-82B7-BC39222FBC54}
+		{6719C4FC-7845-427F-9F56-FFE060C925C4} = {8289E2E2-E038-418C-AFCA-1D2AC04B8295}
+		{2775F0A6-3348-42CE-AD65-24DD1B6C64B8} = {67F04D02-4D74-47F7-944B-335F657FC7E6}
+	EndGlobalSection
+EndGlobal
